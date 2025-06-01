@@ -16,7 +16,7 @@ Hệ thống quản lí gara
 + Không cần yêu cầu phần cứng có cấu hình cao , dùng được là chạy được 
 3. Hưỡng dẫn cài đặt chi tiết
 
-  - Toàn bộ thư viện để lập trình : https://drive.google.com/drive/folders/1G6sNUvKFv6SYgT7BB0WJtfO2cEGvBNKO?usp=sharing
+  - Toàn bộ thư viện để lập trình ( Chưa có jdk -- jdk ở dưới  )  : https://drive.google.com/drive/folders/1G6sNUvKFv6SYgT7BB0WJtfO2cEGvBNKO?usp=sharing
  
   - Nếu không được , hãy tải các thư viện và công cụ  theo trình tự dưới đây 
 -	Tải IDE lập trình : Sử dụng Neatbean-IDE https://netbeans.apache.org/front/main/download/nb25/
