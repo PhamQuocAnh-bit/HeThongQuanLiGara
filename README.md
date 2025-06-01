@@ -29,7 +29,7 @@ Chú ý : Vào cơ sở dữ liệu , tạo một file dữ liệu có tên là 
  + Sau khi tải xong , bật Xampp , vào SQL có tên gara , và nhập file dữ liệu vào .
  + Tên đăng nhập pqa123@gmail.com , pass 123 : để chạy
 -	Tải thư viện :
-+ JDBC ( kết nối và làm việc với csdl ) : https://dev.mysql.com/downloads/connector/j/ hoặc https://drive.google.com/file/d/1No82zgXeWrZetbx7AI60FhKDYIVLOd_U/view?usp=sharing
++ JDBC ( kết nối và làm việc với csdl ) : https://dev.mysql.com/downloads/connector/j/ hoặc https://drive.google.com/file/d/17HguA5uf-VmrfL0B5hbXiI1XvDtha_tf/view?usp=sharing
 + Jfreechart ( vẽ biểu đồ ) – version : 1.0.19 : https://sourceforge.net/projects/jfreechart/files/1.%20JFreeChart/1.0.19/
 + ApachePoid ( xuất , nhập file excel ) – version : 4.0.1 : https://archive.apache.org/dist/poi/release/bin/
 + iText (in file pdf ) – version : 5.5.13 : https://kb.itextpdf.com/it5kb/release-itext-5-5-13
