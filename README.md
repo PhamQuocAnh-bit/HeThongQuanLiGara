@@ -20,7 +20,9 @@ Hệ thống quản lí gara
 -	Tải Cơ sở dữ liệu ( Dùng Xampp – dễ dùng , dễ sử dụng ) 
 + Tải phiên bản 8.0.30 : https://www.apachefriends.org/download.html
 + Nễu cổng mặc định khác  3306 thì vào config và đổi 2 cổng sau về 3306
-+ Vào cơ sở dữ liệu , tạo một file dữ liệu có tên là gara 
+Chú ý : Vào cơ sở dữ liệu , tạo một file dữ liệu có tên là , sau đó tải file SQL từ đây : https://drive.google.com/file/d/1VpUZiYcQYGHfLzBuOieJ0B9D7M9qTzmN/view?usp=sharing .
+ + Sau khi tải xong , bật Xampp , vào SQL có tên gara , và nhập file dữ liệu vào .
+ + Tên đăng nhập pqa123@gmail.com , pass 123 : để chạy
 -	Tải thư viện :
 + JDBC ( kết nối và làm việc với csdl ) : https://dev.mysql.com/downloads/connector/j/
 + Jfreechart ( vẽ biểu đồ ) – version : 1.0.19 : https://sourceforge.net/projects/jfreechart/files/1.%20JFreeChart/1.0.19/
