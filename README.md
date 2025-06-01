@@ -2,6 +2,7 @@ Hệ thống quản lí gara
 
 -------------Hướng dẫn cài đặt và sử dụng -------------- 
 ( Chi tiết trong báo cáo ) 
+
 1.Đối tượng, phạm vi sử dụng 
 -	Đối tượng sử dụng phần mềm : Quản lí hoặc những người được quản lí cấp phép cho truy cập phần mềm , admin . 
 -	Phạm vi sử dụng phần mềm : Dùng trong nội bộ gara . 
