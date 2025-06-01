@@ -33,6 +33,7 @@ Chú ý : Vào cơ sở dữ liệu , tạo một file dữ liệu có tên là 
 + Jfreechart ( vẽ biểu đồ ) – version : 1.0.19 : https://sourceforge.net/projects/jfreechart/files/1.%20JFreeChart/1.0.19/
 + ApachePoid ( xuất , nhập file excel ) – version : 4.0.1 : https://archive.apache.org/dist/poi/release/bin/
 + iText (in file pdf ) – version : 5.5.13 : https://kb.itextpdf.com/it5kb/release-itext-5-5-13
+
 4 : Hướng dẫn sử dụng phần mềm 
 -	Phần mềm dùng cho quản lí gara trong phạm vi nội bộ gara .
 -	Phần mềm có 5 chức năng chính là : Quản lí nhân viên , Nhận Xe , Thanh Toán , Thống Kê , Quản lí Linh Kiện/ Dịch Vụ 
